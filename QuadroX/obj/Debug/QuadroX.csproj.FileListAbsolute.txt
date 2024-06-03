@@ -1,0 +1,8 @@
+C:\Myprogg\QuadroXandTest\QuadroX1\bin\Debug\QuadroX1.exe.config
+C:\Myprogg\QuadroXandTest\QuadroX1\bin\Debug\QuadroX1.exe
+C:\Myprogg\QuadroXandTest\QuadroX1\bin\Debug\QuadroX1.pdb
+C:\Myprogg\QuadroXandTest\QuadroX1\obj\Debug\QuadroX.csproj.AssemblyReference.cache
+C:\Myprogg\QuadroXandTest\QuadroX1\obj\Debug\QuadroX.csproj.SuggestedBindingRedirects.cache
+C:\Myprogg\QuadroXandTest\QuadroX1\obj\Debug\QuadroX.csproj.CoreCompileInputs.cache
+C:\Myprogg\QuadroXandTest\QuadroX1\obj\Debug\QuadroX1.exe
+C:\Myprogg\QuadroXandTest\QuadroX1\obj\Debug\QuadroX1.pdb
